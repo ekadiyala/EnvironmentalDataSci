@@ -1,0 +1,1353 @@
+OBJECTID,DATE,ID,DAY_MAX_OZONE,DAILY_AQI_VALUE,SITE_NAME,DAILY_OBS_COUNT,PERCENT_COMPLETE,CBSA_CODE,CBSA_NAME,COUNTY,SITE_LATITUDE,SITE_LONGITUDE
+57,2020-03-01 0:00:00,60010007,0.039,36,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+58,2020-03-02 0:00:00,60010007,0.041,38,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+59,2020-03-03 0:00:00,60010007,0.038,35,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+60,2020-03-04 0:00:00,60010007,0.052,48,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+61,2020-03-05 0:00:00,60010007,0.036,33,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+62,2020-03-06 0:00:00,60010007,0.036,33,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+63,2020-03-07 0:00:00,60010007,0.033,31,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+64,2020-03-08 0:00:00,60010007,0.034,31,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+65,2020-03-09 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+66,2020-03-10 0:00:00,60010007,0.038,35,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+67,2020-03-11 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+68,2020-03-12 0:00:00,60010007,0.046,43,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+69,2020-03-13 0:00:00,60010007,0.039,36,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+70,2020-03-14 0:00:00,60010007,0.036,33,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+71,2020-03-15 0:00:00,60010007,0.042,39,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+72,2020-03-16 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+73,2020-03-17 0:00:00,60010007,0.034,31,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+74,2020-03-18 0:00:00,60010007,0.038,35,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+75,2020-03-19 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+76,2020-03-20 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+77,2020-03-21 0:00:00,60010007,0.041,38,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+78,2020-03-22 0:00:00,60010007,0.041,38,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+79,2020-03-23 0:00:00,60010007,0.042,39,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+80,2020-03-24 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+81,2020-03-25 0:00:00,60010007,0.043,40,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+82,2020-03-26 0:00:00,60010007,0.039,36,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+83,2020-03-27 0:00:00,60010007,0.051,47,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+84,2020-03-28 0:00:00,60010007,0.049,45,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+85,2020-03-29 0:00:00,60010007,0.044,41,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+86,2020-03-30 0:00:00,60010007,0.039,36,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+87,2020-03-31 0:00:00,60010007,0.033,31,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+88,2020-04-01 0:00:00,60010007,0.041,38,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+89,2020-04-02 0:00:00,60010007,0.039,36,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+90,2020-04-03 0:00:00,60010007,0.037,34,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+91,2020-04-04 0:00:00,60010007,0.032,30,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+92,2020-04-05 0:00:00,60010007,0.035,32,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+93,2020-04-06 0:00:00,60010007,0.039,36,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+94,2020-04-07 0:00:00,60010007,0.042,39,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+95,2020-04-08 0:00:00,60010007,0.036,33,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+96,2020-04-09 0:00:00,60010007,0.03,28,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+97,2020-04-10 0:00:00,60010007,0.039,36,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+98,2020-04-11 0:00:00,60010007,0.035,32,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+99,2020-04-12 0:00:00,60010007,0.036,33,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+100,2020-04-13 0:00:00,60010007,0.044,41,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+101,2020-04-14 0:00:00,60010007,0.05,46,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+102,2020-04-15 0:00:00,60010007,0.049,45,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+103,2020-04-16 0:00:00,60010007,0.03,28,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+104,2020-04-17 0:00:00,60010007,0.037,34,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+105,2020-04-18 0:00:00,60010007,0.042,39,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+106,2020-04-19 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+107,2020-04-20 0:00:00,60010007,0.042,39,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+108,2020-04-21 0:00:00,60010007,0.038,35,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+109,2020-04-22 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+110,2020-04-23 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+111,2020-04-24 0:00:00,60010007,0.051,47,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+112,2020-04-25 0:00:00,60010007,0.045,42,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+113,2020-04-26 0:00:00,60010007,0.04,37,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+114,2020-04-27 0:00:00,60010007,0.044,41,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+115,2020-04-28 0:00:00,60010007,0.042,39,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+116,2020-04-30 0:00:00,60010007,0.049,45,Livermore,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.687526,-121.784217
+187,2020-03-01 0:00:00,60010009,0.037,34,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+188,2020-03-02 0:00:00,60010009,0.039,36,Oakland,20,83,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+189,2020-03-03 0:00:00,60010009,0.028,26,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+190,2020-03-04 0:00:00,60010009,0.034,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+191,2020-03-05 0:00:00,60010009,0.033,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+192,2020-03-06 0:00:00,60010009,0.034,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+193,2020-03-07 0:00:00,60010009,0.034,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+194,2020-03-08 0:00:00,60010009,0.036,33,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+195,2020-03-09 0:00:00,60010009,0.036,33,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+196,2020-03-10 0:00:00,60010009,0.034,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+197,2020-03-11 0:00:00,60010009,0.031,29,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+198,2020-03-12 0:00:00,60010009,0.034,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+199,2020-03-13 0:00:00,60010009,0.037,34,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+200,2020-03-14 0:00:00,60010009,0.036,33,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+201,2020-03-15 0:00:00,60010009,0.04,37,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+202,2020-03-16 0:00:00,60010009,0.038,35,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+203,2020-03-17 0:00:00,60010009,0.037,34,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+204,2020-03-18 0:00:00,60010009,0.037,34,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+205,2020-03-20 0:00:00,60010009,0.035,32,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+206,2020-03-21 0:00:00,60010009,0.039,36,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+207,2020-03-22 0:00:00,60010009,0.035,32,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+208,2020-03-23 0:00:00,60010009,0.041,38,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+209,2020-03-24 0:00:00,60010009,0.04,37,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+210,2020-03-25 0:00:00,60010009,0.039,36,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+211,2020-03-26 0:00:00,60010009,0.032,30,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+212,2020-03-27 0:00:00,60010009,0.046,43,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+213,2020-03-28 0:00:00,60010009,0.043,40,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+214,2020-03-29 0:00:00,60010009,0.041,38,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+215,2020-03-30 0:00:00,60010009,0.033,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+216,2020-03-31 0:00:00,60010009,0.026,24,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+217,2020-04-01 0:00:00,60010009,0.035,32,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+218,2020-04-02 0:00:00,60010009,0.031,29,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+219,2020-04-03 0:00:00,60010009,0.032,30,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+220,2020-04-04 0:00:00,60010009,0.029,27,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+221,2020-04-05 0:00:00,60010009,0.033,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+222,2020-04-06 0:00:00,60010009,0.03,28,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+223,2020-04-07 0:00:00,60010009,0.035,32,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+224,2020-04-08 0:00:00,60010009,0.034,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+225,2020-04-09 0:00:00,60010009,0.033,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+226,2020-04-10 0:00:00,60010009,0.035,32,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+227,2020-04-11 0:00:00,60010009,0.037,34,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+228,2020-04-12 0:00:00,60010009,0.04,37,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+229,2020-04-13 0:00:00,60010009,0.039,36,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+230,2020-04-14 0:00:00,60010009,0.042,39,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+231,2020-04-15 0:00:00,60010009,0.034,31,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+232,2020-04-16 0:00:00,60010009,0.029,27,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+233,2020-04-17 0:00:00,60010009,0.039,36,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+234,2020-04-18 0:00:00,60010009,0.04,37,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+235,2020-04-19 0:00:00,60010009,0.038,35,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+236,2020-04-20 0:00:00,60010009,0.037,34,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+237,2020-04-21 0:00:00,60010009,0.031,29,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+238,2020-04-23 0:00:00,60010009,0.028,26,Oakland,20,83,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+239,2020-04-24 0:00:00,60010009,0.032,30,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+240,2020-04-25 0:00:00,60010009,0.025,23,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+241,2020-04-26 0:00:00,60010009,0.036,33,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+242,2020-04-27 0:00:00,60010009,0.032,30,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+243,2020-04-28 0:00:00,60010009,0.024,22,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+244,2020-04-29 0:00:00,60010009,0.024,22,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+245,2020-04-30 0:00:00,60010009,0.038,35,Oakland,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.743065,-122.169935
+316,2020-03-01 0:00:00,60010011,0.039,36,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+317,2020-03-02 0:00:00,60010011,0.042,39,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+318,2020-03-03 0:00:00,60010011,0.025,23,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+319,2020-03-04 0:00:00,60010011,0.032,30,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+320,2020-03-05 0:00:00,60010011,0.036,33,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+321,2020-03-06 0:00:00,60010011,0.036,33,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+322,2020-03-07 0:00:00,60010011,0.037,34,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+323,2020-03-08 0:00:00,60010011,0.04,37,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+324,2020-03-09 0:00:00,60010011,0.038,35,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+325,2020-03-10 0:00:00,60010011,0.031,29,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+326,2020-03-11 0:00:00,60010011,0.033,31,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+327,2020-03-12 0:00:00,60010011,0.025,23,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+328,2020-03-13 0:00:00,60010011,0.038,35,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+329,2020-03-14 0:00:00,60010011,0.039,36,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+330,2020-03-15 0:00:00,60010011,0.044,41,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+331,2020-03-16 0:00:00,60010011,0.041,38,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+332,2020-03-17 0:00:00,60010011,0.039,36,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+333,2020-03-18 0:00:00,60010011,0.039,36,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+334,2020-03-19 0:00:00,60010011,0.037,34,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+335,2020-03-20 0:00:00,60010011,0.038,35,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+336,2020-03-21 0:00:00,60010011,0.041,38,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+337,2020-03-22 0:00:00,60010011,0.038,35,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+338,2020-03-23 0:00:00,60010011,0.042,39,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+339,2020-03-24 0:00:00,60010011,0.041,38,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+340,2020-03-25 0:00:00,60010011,0.041,38,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+341,2020-03-26 0:00:00,60010011,0.036,33,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+342,2020-03-27 0:00:00,60010011,0.049,45,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+343,2020-03-28 0:00:00,60010011,0.046,43,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+344,2020-03-29 0:00:00,60010011,0.043,40,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+345,2020-03-30 0:00:00,60010011,0.033,31,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+346,2020-03-31 0:00:00,60010011,0.033,31,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+347,2020-04-01 0:00:00,60010011,0.038,35,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+348,2020-04-02 0:00:00,60010011,0.032,30,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+349,2020-04-03 0:00:00,60010011,0.032,30,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+350,2020-04-04 0:00:00,60010011,0.032,30,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+351,2020-04-05 0:00:00,60010011,0.038,35,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+352,2020-04-06 0:00:00,60010011,0.034,31,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+353,2020-04-07 0:00:00,60010011,0.038,35,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+354,2020-04-08 0:00:00,60010011,0.035,32,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+355,2020-04-09 0:00:00,60010011,0.033,31,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+356,2020-04-10 0:00:00,60010011,0.037,34,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+357,2020-04-11 0:00:00,60010011,0.036,33,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+358,2020-04-12 0:00:00,60010011,0.04,37,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+359,2020-04-13 0:00:00,60010011,0.042,39,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+360,2020-04-14 0:00:00,60010011,0.042,39,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+361,2020-04-15 0:00:00,60010011,0.036,33,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+362,2020-04-16 0:00:00,60010011,0.029,27,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+363,2020-04-17 0:00:00,60010011,0.039,36,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+364,2020-04-18 0:00:00,60010011,0.043,40,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+365,2020-04-19 0:00:00,60010011,0.042,39,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+366,2020-04-20 0:00:00,60010011,0.039,36,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+367,2020-04-21 0:00:00,60010011,0.031,29,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+368,2020-04-22 0:00:00,60010011,0.031,29,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+369,2020-04-23 0:00:00,60010011,0.032,30,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+370,2020-04-24 0:00:00,60010011,0.031,29,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+371,2020-04-25 0:00:00,60010011,0.023,21,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+372,2020-04-26 0:00:00,60010011,0.032,30,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+373,2020-04-27 0:00:00,60010011,0.031,29,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+374,2020-04-28 0:00:00,60010011,0.024,22,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+375,2020-04-30 0:00:00,60010011,0.037,34,Oakland West,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.814781,-122.282347
+442,2020-03-01 0:00:00,60010013,0.04,37,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+443,2020-03-02 0:00:00,60010013,0.039,36,Berkeley Aquatic Park,18,75,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+444,2020-03-03 0:00:00,60010013,0.025,23,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+445,2020-03-05 0:00:00,60010013,0.034,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+446,2020-03-07 0:00:00,60010013,0.035,32,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+447,2020-03-08 0:00:00,60010013,0.034,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+448,2020-03-09 0:00:00,60010013,0.034,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+449,2020-03-10 0:00:00,60010013,0.021,19,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+450,2020-03-11 0:00:00,60010013,0.03,28,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+451,2020-03-12 0:00:00,60010013,0.025,23,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+452,2020-03-13 0:00:00,60010013,0.036,33,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+453,2020-03-14 0:00:00,60010013,0.039,36,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+454,2020-03-15 0:00:00,60010013,0.041,38,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+455,2020-03-17 0:00:00,60010013,0.034,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+456,2020-03-18 0:00:00,60010013,0.033,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+457,2020-03-19 0:00:00,60010013,0.034,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+458,2020-03-20 0:00:00,60010013,0.034,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+459,2020-03-21 0:00:00,60010013,0.03,28,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+460,2020-03-22 0:00:00,60010013,0.035,32,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+461,2020-03-23 0:00:00,60010013,0.04,37,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+462,2020-03-24 0:00:00,60010013,0.036,33,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+463,2020-03-25 0:00:00,60010013,0.035,32,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+464,2020-03-26 0:00:00,60010013,0.032,30,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+465,2020-03-27 0:00:00,60010013,0.044,41,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+466,2020-03-28 0:00:00,60010013,0.04,37,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+467,2020-03-29 0:00:00,60010013,0.039,36,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+468,2020-03-30 0:00:00,60010013,0.029,27,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+469,2020-03-31 0:00:00,60010013,0.026,24,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+470,2020-04-02 0:00:00,60010013,0.029,27,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+471,2020-04-03 0:00:00,60010013,0.027,25,Berkeley Aquatic Park,23,96,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+472,2020-04-04 0:00:00,60010013,0.033,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+473,2020-04-05 0:00:00,60010013,0.036,33,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+474,2020-04-06 0:00:00,60010013,0.029,27,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+475,2020-04-07 0:00:00,60010013,0.033,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+476,2020-04-08 0:00:00,60010013,0.033,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+477,2020-04-09 0:00:00,60010013,0.035,32,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+478,2020-04-10 0:00:00,60010013,0.034,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+479,2020-04-11 0:00:00,60010013,0.036,33,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+480,2020-04-12 0:00:00,60010013,0.038,35,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+481,2020-04-13 0:00:00,60010013,0.036,33,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+482,2020-04-14 0:00:00,60010013,0.034,31,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+483,2020-04-15 0:00:00,60010013,0.032,30,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+484,2020-04-16 0:00:00,60010013,0.028,26,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+485,2020-04-17 0:00:00,60010013,0.038,35,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+486,2020-04-18 0:00:00,60010013,0.038,35,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+487,2020-04-19 0:00:00,60010013,0.039,36,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+488,2020-04-20 0:00:00,60010013,0.032,30,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+489,2020-04-21 0:00:00,60010013,0.03,28,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+490,2020-04-22 0:00:00,60010013,0.026,24,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+491,2020-04-23 0:00:00,60010013,0.025,23,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+492,2020-04-24 0:00:00,60010013,0.026,24,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+493,2020-04-25 0:00:00,60010013,0.02,19,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+494,2020-04-26 0:00:00,60010013,0.036,33,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+495,2020-04-27 0:00:00,60010013,0.032,30,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+496,2020-04-28 0:00:00,60010013,0.022,20,Berkeley Aquatic Park,18,75,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+497,2020-04-29 0:00:00,60010013,0.019,18,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+498,2020-04-30 0:00:00,60010013,0.036,33,Berkeley Aquatic Park,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.864767,-122.302741
+571,2020-03-01 0:00:00,60012001,0.04,37,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+572,2020-03-02 0:00:00,60012001,0.041,38,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+573,2020-03-04 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+574,2020-03-05 0:00:00,60012001,0.036,33,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+575,2020-03-06 0:00:00,60012001,0.036,33,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+576,2020-03-07 0:00:00,60012001,0.035,32,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+577,2020-03-08 0:00:00,60012001,0.038,35,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+578,2020-03-09 0:00:00,60012001,0.04,37,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+579,2020-03-10 0:00:00,60012001,0.037,34,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+580,2020-03-11 0:00:00,60012001,0.038,35,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+581,2020-03-12 0:00:00,60012001,0.045,42,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+582,2020-03-13 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+583,2020-03-14 0:00:00,60012001,0.036,33,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+584,2020-03-15 0:00:00,60012001,0.041,38,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+585,2020-03-16 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+586,2020-03-17 0:00:00,60012001,0.037,34,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+587,2020-03-18 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+588,2020-03-19 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+589,2020-03-20 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+590,2020-03-21 0:00:00,60012001,0.04,37,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+591,2020-03-22 0:00:00,60012001,0.04,37,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+592,2020-03-23 0:00:00,60012001,0.042,39,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+593,2020-03-24 0:00:00,60012001,0.041,38,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+594,2020-03-25 0:00:00,60012001,0.042,39,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+595,2020-03-26 0:00:00,60012001,0.035,32,Hayward,23,96,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+596,2020-03-27 0:00:00,60012001,0.05,46,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+597,2020-03-28 0:00:00,60012001,0.046,43,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+598,2020-03-29 0:00:00,60012001,0.043,40,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+599,2020-03-30 0:00:00,60012001,0.036,33,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+600,2020-03-31 0:00:00,60012001,0.03,28,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+601,2020-04-01 0:00:00,60012001,0.038,35,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+602,2020-04-02 0:00:00,60012001,0.035,32,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+603,2020-04-03 0:00:00,60012001,0.035,32,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+604,2020-04-04 0:00:00,60012001,0.032,30,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+605,2020-04-05 0:00:00,60012001,0.034,31,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+606,2020-04-06 0:00:00,60012001,0.034,31,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+607,2020-04-07 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+608,2020-04-08 0:00:00,60012001,0.034,31,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+609,2020-04-09 0:00:00,60012001,0.032,30,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+610,2020-04-10 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+611,2020-04-11 0:00:00,60012001,0.034,31,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+612,2020-04-12 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+613,2020-04-13 0:00:00,60012001,0.043,40,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+614,2020-04-14 0:00:00,60012001,0.048,44,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+615,2020-04-15 0:00:00,60012001,0.047,44,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+616,2020-04-16 0:00:00,60012001,0.028,26,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+617,2020-04-17 0:00:00,60012001,0.038,35,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+618,2020-04-18 0:00:00,60012001,0.04,37,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+619,2020-04-19 0:00:00,60012001,0.039,36,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+620,2020-04-20 0:00:00,60012001,0.04,37,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+621,2020-04-21 0:00:00,60012001,0.034,31,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+622,2020-04-22 0:00:00,60012001,0.035,32,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+623,2020-04-23 0:00:00,60012001,0.035,32,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+624,2020-04-24 0:00:00,60012001,0.04,37,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+625,2020-04-25 0:00:00,60012001,0.034,31,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+626,2020-04-26 0:00:00,60012001,0.04,37,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+627,2020-04-27 0:00:00,60012001,0.037,34,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+628,2020-04-28 0:00:00,60012001,0.03,28,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+629,2020-04-29 0:00:00,60012001,0.028,26,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+630,2020-04-30 0:00:00,60012001,0.042,39,Hayward,24,100,41860,"San Francisco-Oakland-Hayward, CA",Alameda,37.654456,-122.031547
+702,2020-03-01 0:00:00,60130002,0.039,36,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+703,2020-03-02 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+704,2020-03-03 0:00:00,60130002,0.036,33,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+705,2020-03-04 0:00:00,60130002,0.054,50,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+706,2020-03-05 0:00:00,60130002,0.039,36,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+707,2020-03-06 0:00:00,60130002,0.036,33,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+708,2020-03-07 0:00:00,60130002,0.033,31,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+709,2020-03-08 0:00:00,60130002,0.033,31,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+710,2020-03-09 0:00:00,60130002,0.04,37,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+711,2020-03-10 0:00:00,60130002,0.038,35,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+712,2020-03-11 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+713,2020-03-12 0:00:00,60130002,0.044,41,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+714,2020-03-13 0:00:00,60130002,0.039,36,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+715,2020-03-14 0:00:00,60130002,0.037,34,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+716,2020-03-15 0:00:00,60130002,0.042,39,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+717,2020-03-17 0:00:00,60130002,0.036,33,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+718,2020-03-18 0:00:00,60130002,0.035,32,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+719,2020-03-19 0:00:00,60130002,0.04,37,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+720,2020-03-20 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+721,2020-03-21 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+722,2020-03-22 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+723,2020-03-23 0:00:00,60130002,0.042,39,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+724,2020-03-24 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+725,2020-03-25 0:00:00,60130002,0.04,37,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+726,2020-03-26 0:00:00,60130002,0.038,35,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+727,2020-03-27 0:00:00,60130002,0.048,44,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+728,2020-03-28 0:00:00,60130002,0.046,43,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+729,2020-03-29 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+730,2020-03-30 0:00:00,60130002,0.035,32,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+731,2020-03-31 0:00:00,60130002,0.032,30,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+732,2020-04-01 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+733,2020-04-02 0:00:00,60130002,0.038,35,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+734,2020-04-03 0:00:00,60130002,0.037,34,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+735,2020-04-04 0:00:00,60130002,0.031,29,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+736,2020-04-05 0:00:00,60130002,0.035,32,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+737,2020-04-06 0:00:00,60130002,0.035,32,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+738,2020-04-07 0:00:00,60130002,0.042,39,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+739,2020-04-08 0:00:00,60130002,0.034,31,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+740,2020-04-09 0:00:00,60130002,0.031,29,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+741,2020-04-10 0:00:00,60130002,0.037,34,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+742,2020-04-11 0:00:00,60130002,0.033,31,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+743,2020-04-12 0:00:00,60130002,0.037,34,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+744,2020-04-13 0:00:00,60130002,0.045,42,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+745,2020-04-14 0:00:00,60130002,0.051,47,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+746,2020-04-15 0:00:00,60130002,0.05,46,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+747,2020-04-16 0:00:00,60130002,0.031,29,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+748,2020-04-17 0:00:00,60130002,0.037,34,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+749,2020-04-18 0:00:00,60130002,0.043,40,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+750,2020-04-19 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+751,2020-04-20 0:00:00,60130002,0.04,37,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+752,2020-04-21 0:00:00,60130002,0.036,33,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+753,2020-04-22 0:00:00,60130002,0.038,35,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+754,2020-04-23 0:00:00,60130002,0.042,39,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+755,2020-04-24 0:00:00,60130002,0.041,38,Concord,18,75,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+756,2020-04-25 0:00:00,60130002,0.042,39,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+757,2020-04-26 0:00:00,60130002,0.039,36,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+758,2020-04-27 0:00:00,60130002,0.041,38,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+759,2020-04-28 0:00:00,60130002,0.042,39,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+760,2020-04-29 0:00:00,60130002,0.031,29,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+761,2020-04-30 0:00:00,60130002,0.05,46,Concord,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.936013,-122.026154
+833,2020-03-01 0:00:00,60131002,0.039,36,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+834,2020-03-02 0:00:00,60131002,0.04,37,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+835,2020-03-03 0:00:00,60131002,0.043,40,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+836,2020-03-04 0:00:00,60131002,0.056,54,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+837,2020-03-05 0:00:00,60131002,0.041,38,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+838,2020-03-06 0:00:00,60131002,0.037,34,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+839,2020-03-07 0:00:00,60131002,0.033,31,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+840,2020-03-08 0:00:00,60131002,0.034,31,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+841,2020-03-09 0:00:00,60131002,0.041,38,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+842,2020-03-10 0:00:00,60131002,0.037,34,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+843,2020-03-11 0:00:00,60131002,0.045,42,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+844,2020-03-12 0:00:00,60131002,0.045,42,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+845,2020-03-13 0:00:00,60131002,0.041,38,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+846,2020-03-14 0:00:00,60131002,0.035,32,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+847,2020-03-15 0:00:00,60131002,0.043,40,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+848,2020-03-16 0:00:00,60131002,0.042,39,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+849,2020-03-17 0:00:00,60131002,0.038,35,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+850,2020-03-19 0:00:00,60131002,0.04,37,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+851,2020-03-20 0:00:00,60131002,0.042,39,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+852,2020-03-21 0:00:00,60131002,0.044,41,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+853,2020-03-22 0:00:00,60131002,0.041,38,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+854,2020-03-23 0:00:00,60131002,0.043,40,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+855,2020-03-24 0:00:00,60131002,0.043,40,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+856,2020-03-25 0:00:00,60131002,0.043,40,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+857,2020-03-26 0:00:00,60131002,0.041,38,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+858,2020-03-27 0:00:00,60131002,0.05,46,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+859,2020-03-28 0:00:00,60131002,0.048,44,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+860,2020-03-29 0:00:00,60131002,0.046,43,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+861,2020-03-30 0:00:00,60131002,0.039,36,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+862,2020-03-31 0:00:00,60131002,0.033,31,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+863,2020-04-01 0:00:00,60131002,0.042,39,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+864,2020-04-02 0:00:00,60131002,0.04,37,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+865,2020-04-06 0:00:00,60131002,0.039,36,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+866,2020-04-07 0:00:00,60131002,0.042,39,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+867,2020-04-08 0:00:00,60131002,0.033,31,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+868,2020-04-09 0:00:00,60131002,0.032,30,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+869,2020-04-10 0:00:00,60131002,0.042,39,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+870,2020-04-11 0:00:00,60131002,0.035,32,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+871,2020-04-12 0:00:00,60131002,0.04,37,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+872,2020-04-13 0:00:00,60131002,0.046,43,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+873,2020-04-15 0:00:00,60131002,0.052,48,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+874,2020-04-16 0:00:00,60131002,0.039,36,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+875,2020-04-17 0:00:00,60131002,0.038,35,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+876,2020-04-18 0:00:00,60131002,0.044,41,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+877,2020-04-19 0:00:00,60131002,0.045,42,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+878,2020-04-20 0:00:00,60131002,0.044,41,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+879,2020-04-21 0:00:00,60131002,0.042,39,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+880,2020-04-22 0:00:00,60131002,0.04,37,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+881,2020-04-23 0:00:00,60131002,0.041,38,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+882,2020-04-24 0:00:00,60131002,0.049,45,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+883,2020-04-25 0:00:00,60131002,0.044,41,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+884,2020-04-26 0:00:00,60131002,0.041,38,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+885,2020-04-27 0:00:00,60131002,0.044,41,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+886,2020-04-28 0:00:00,60131002,0.041,38,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+887,2020-04-29 0:00:00,60131002,0.037,34,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+888,2020-04-30 0:00:00,60131002,0.052,48,Bethel Island,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,38.006311,-121.641918
+957,2020-03-01 0:00:00,60131004,0.041,38,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+958,2020-03-02 0:00:00,60131004,0.042,39,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+959,2020-03-03 0:00:00,60131004,0.031,29,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+960,2020-03-04 0:00:00,60131004,0.044,41,San Pablo,21,88,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+961,2020-03-05 0:00:00,60131004,0.039,36,San Pablo,19,79,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+962,2020-03-06 0:00:00,60131004,0.038,35,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+963,2020-03-07 0:00:00,60131004,0.037,34,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+964,2020-03-08 0:00:00,60131004,0.039,36,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+965,2020-03-09 0:00:00,60131004,0.041,38,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+966,2020-03-10 0:00:00,60131004,0.033,31,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+967,2020-03-11 0:00:00,60131004,0.038,35,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+968,2020-03-12 0:00:00,60131004,0.036,33,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+969,2020-03-13 0:00:00,60131004,0.039,36,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+970,2020-03-14 0:00:00,60131004,0.042,39,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+971,2020-03-15 0:00:00,60131004,0.045,42,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+972,2020-03-17 0:00:00,60131004,0.038,35,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+973,2020-03-18 0:00:00,60131004,0.036,33,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+974,2020-03-19 0:00:00,60131004,0.039,36,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+975,2020-03-20 0:00:00,60131004,0.039,36,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+976,2020-03-21 0:00:00,60131004,0.037,34,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+977,2020-03-22 0:00:00,60131004,0.04,37,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+978,2020-03-23 0:00:00,60131004,0.043,40,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+979,2020-03-24 0:00:00,60131004,0.04,37,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+980,2020-03-25 0:00:00,60131004,0.04,37,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+981,2020-03-26 0:00:00,60131004,0.037,34,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+982,2020-03-28 0:00:00,60131004,0.044,41,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+983,2020-03-29 0:00:00,60131004,0.043,40,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+984,2020-03-30 0:00:00,60131004,0.033,31,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+985,2020-03-31 0:00:00,60131004,0.03,28,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+986,2020-04-01 0:00:00,60131004,0.038,35,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+987,2020-04-02 0:00:00,60131004,0.037,34,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+988,2020-04-03 0:00:00,60131004,0.035,32,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+989,2020-04-04 0:00:00,60131004,0.034,31,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+990,2020-04-05 0:00:00,60131004,0.039,36,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+991,2020-04-06 0:00:00,60131004,0.033,31,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+992,2020-04-07 0:00:00,60131004,0.042,39,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+993,2020-04-08 0:00:00,60131004,0.036,33,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+994,2020-04-09 0:00:00,60131004,0.032,30,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+995,2020-04-10 0:00:00,60131004,0.035,32,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+996,2020-04-11 0:00:00,60131004,0.038,35,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+997,2020-04-12 0:00:00,60131004,0.039,36,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+998,2020-04-13 0:00:00,60131004,0.042,39,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+999,2020-04-14 0:00:00,60131004,0.047,44,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1000,2020-04-15 0:00:00,60131004,0.042,39,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1001,2020-04-16 0:00:00,60131004,0.031,29,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1002,2020-04-17 0:00:00,60131004,0.041,38,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1003,2020-04-18 0:00:00,60131004,0.042,39,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1004,2020-04-19 0:00:00,60131004,0.041,38,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1005,2020-04-20 0:00:00,60131004,0.038,35,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1006,2020-04-21 0:00:00,60131004,0.032,30,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1007,2020-04-22 0:00:00,60131004,0.03,28,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1008,2020-04-23 0:00:00,60131004,0.034,31,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1009,2020-04-24 0:00:00,60131004,0.039,36,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1010,2020-04-25 0:00:00,60131004,0.026,24,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1011,2020-04-26 0:00:00,60131004,0.039,36,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1012,2020-04-27 0:00:00,60131004,0.031,29,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1013,2020-04-28 0:00:00,60131004,0.026,24,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1014,2020-04-29 0:00:00,60131004,0.026,24,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1015,2020-04-30 0:00:00,60131004,0.043,40,San Pablo,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.9604,-122.356811
+1088,2020-03-01 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1089,2020-03-02 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1090,2020-03-03 0:00:00,60132007,0.035,32,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1091,2020-03-04 0:00:00,60132007,0.053,49,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1092,2020-03-05 0:00:00,60132007,0.036,33,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1093,2020-03-06 0:00:00,60132007,0.035,32,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1094,2020-03-07 0:00:00,60132007,0.033,31,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1095,2020-03-08 0:00:00,60132007,0.035,32,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1096,2020-03-09 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1097,2020-03-10 0:00:00,60132007,0.038,35,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1098,2020-03-11 0:00:00,60132007,0.041,38,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1099,2020-03-12 0:00:00,60132007,0.043,40,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1100,2020-03-13 0:00:00,60132007,0.039,36,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1101,2020-03-14 0:00:00,60132007,0.036,33,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1102,2020-03-15 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1103,2020-03-16 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1104,2020-03-17 0:00:00,60132007,0.034,31,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1105,2020-03-18 0:00:00,60132007,0.037,34,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1106,2020-03-19 0:00:00,60132007,0.038,35,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1107,2020-03-20 0:00:00,60132007,0.041,38,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1108,2020-03-21 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1109,2020-03-22 0:00:00,60132007,0.039,36,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1110,2020-03-23 0:00:00,60132007,0.041,38,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1111,2020-03-24 0:00:00,60132007,0.039,36,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1112,2020-03-25 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1113,2020-03-26 0:00:00,60132007,0.038,35,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1114,2020-03-27 0:00:00,60132007,0.048,44,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1115,2020-03-28 0:00:00,60132007,0.046,43,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1116,2020-03-29 0:00:00,60132007,0.042,39,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1117,2020-03-30 0:00:00,60132007,0.036,33,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1118,2020-03-31 0:00:00,60132007,0.029,27,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1119,2020-04-01 0:00:00,60132007,0.038,35,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1120,2020-04-02 0:00:00,60132007,0.037,34,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1121,2020-04-03 0:00:00,60132007,0.034,31,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1122,2020-04-04 0:00:00,60132007,0.032,30,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1123,2020-04-05 0:00:00,60132007,0.034,31,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1124,2020-04-06 0:00:00,60132007,0.036,33,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1125,2020-04-07 0:00:00,60132007,0.041,38,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1126,2020-04-08 0:00:00,60132007,0.034,31,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1127,2020-04-09 0:00:00,60132007,0.03,28,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1128,2020-04-10 0:00:00,60132007,0.037,34,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1129,2020-04-11 0:00:00,60132007,0.033,31,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1130,2020-04-12 0:00:00,60132007,0.036,33,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1131,2020-04-13 0:00:00,60132007,0.043,40,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1132,2020-04-14 0:00:00,60132007,0.048,44,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1133,2020-04-15 0:00:00,60132007,0.047,44,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1134,2020-04-16 0:00:00,60132007,0.028,26,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1135,2020-04-17 0:00:00,60132007,0.037,34,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1136,2020-04-18 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1137,2020-04-19 0:00:00,60132007,0.039,36,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1138,2020-04-20 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1139,2020-04-21 0:00:00,60132007,0.035,32,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1140,2020-04-22 0:00:00,60132007,0.036,33,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1141,2020-04-23 0:00:00,60132007,0.035,32,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1142,2020-04-24 0:00:00,60132007,0.044,41,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1143,2020-04-25 0:00:00,60132007,0.04,37,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1144,2020-04-26 0:00:00,60132007,0.037,34,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1145,2020-04-27 0:00:00,60132007,0.039,36,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1146,2020-04-28 0:00:00,60132007,0.036,33,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1147,2020-04-29 0:00:00,60132007,0.027,25,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1148,2020-04-30 0:00:00,60132007,0.043,40,San Ramon,24,100,41860,"San Francisco-Oakland-Hayward, CA",Contra Costa,37.743649,-121.934188
+1219,2020-03-01 0:00:00,60410001,0.039,36,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1220,2020-03-02 0:00:00,60410001,0.04,37,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1221,2020-03-03 0:00:00,60410001,0.033,31,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1222,2020-03-04 0:00:00,60410001,0.043,40,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1223,2020-03-05 0:00:00,60410001,0.038,35,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1224,2020-03-06 0:00:00,60410001,0.038,35,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1225,2020-03-07 0:00:00,60410001,0.032,30,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1226,2020-03-08 0:00:00,60410001,0.038,35,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1227,2020-03-09 0:00:00,60410001,0.04,37,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1228,2020-03-11 0:00:00,60410001,0.035,32,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1229,2020-03-12 0:00:00,60410001,0.032,30,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1230,2020-03-13 0:00:00,60410001,0.038,35,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1231,2020-03-14 0:00:00,60410001,0.04,37,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1232,2020-03-15 0:00:00,60410001,0.043,40,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1233,2020-03-16 0:00:00,60410001,0.04,37,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1234,2020-03-17 0:00:00,60410001,0.036,33,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1235,2020-03-19 0:00:00,60410001,0.039,36,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1236,2020-03-20 0:00:00,60410001,0.041,38,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1237,2020-03-21 0:00:00,60410001,0.04,37,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1238,2020-03-22 0:00:00,60410001,0.041,38,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1239,2020-03-23 0:00:00,60410001,0.041,38,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1240,2020-03-24 0:00:00,60410001,0.038,35,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1241,2020-03-25 0:00:00,60410001,0.039,36,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1242,2020-03-26 0:00:00,60410001,0.035,32,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1243,2020-03-27 0:00:00,60410001,0.046,43,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1244,2020-03-28 0:00:00,60410001,0.043,40,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1245,2020-03-29 0:00:00,60410001,0.039,36,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1246,2020-03-30 0:00:00,60410001,0.03,28,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1247,2020-03-31 0:00:00,60410001,0.034,31,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1248,2020-04-01 0:00:00,60410001,0.036,33,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1249,2020-04-02 0:00:00,60410001,0.035,32,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1250,2020-04-03 0:00:00,60410001,0.033,31,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1251,2020-04-04 0:00:00,60410001,0.037,34,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1252,2020-04-05 0:00:00,60410001,0.037,34,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1253,2020-04-06 0:00:00,60410001,0.034,31,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1254,2020-04-07 0:00:00,60410001,0.039,36,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1255,2020-04-08 0:00:00,60410001,0.035,32,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1256,2020-04-09 0:00:00,60410001,0.033,31,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1257,2020-04-10 0:00:00,60410001,0.034,31,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1258,2020-04-11 0:00:00,60410001,0.032,30,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1259,2020-04-12 0:00:00,60410001,0.034,31,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1260,2020-04-13 0:00:00,60410001,0.04,37,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1261,2020-04-14 0:00:00,60410001,0.048,44,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1262,2020-04-15 0:00:00,60410001,0.04,37,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1263,2020-04-16 0:00:00,60410001,0.03,28,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1264,2020-04-17 0:00:00,60410001,0.04,37,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1265,2020-04-18 0:00:00,60410001,0.04,37,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1266,2020-04-19 0:00:00,60410001,0.038,35,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1267,2020-04-20 0:00:00,60410001,0.035,32,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1268,2020-04-21 0:00:00,60410001,0.035,32,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1269,2020-04-22 0:00:00,60410001,0.027,25,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1270,2020-04-23 0:00:00,60410001,0.037,34,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1271,2020-04-24 0:00:00,60410001,0.036,33,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1272,2020-04-25 0:00:00,60410001,0.032,30,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1273,2020-04-26 0:00:00,60410001,0.046,43,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1274,2020-04-27 0:00:00,60410001,0.037,34,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1275,2020-04-28 0:00:00,60410001,0.028,26,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1276,2020-04-29 0:00:00,60410001,0.024,22,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1277,2020-04-30 0:00:00,60410001,0.042,39,San Rafael,24,100,41860,"San Francisco-Oakland-Hayward, CA",Marin,37.97231,-122.520004
+1347,2020-03-01 0:00:00,60550004,0.042,39,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1348,2020-03-02 0:00:00,60550004,0.042,39,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1349,2020-03-04 0:00:00,60550004,0.044,41,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1350,2020-03-05 0:00:00,60550004,0.039,36,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1351,2020-03-06 0:00:00,60550004,0.039,36,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1352,2020-03-07 0:00:00,60550004,0.039,36,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1353,2020-03-08 0:00:00,60550004,0.041,38,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1354,2020-03-09 0:00:00,60550004,0.043,40,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1355,2020-03-10 0:00:00,60550004,0.041,38,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1356,2020-03-11 0:00:00,60550004,0.042,39,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1357,2020-03-12 0:00:00,60550004,0.038,35,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1358,2020-03-13 0:00:00,60550004,0.04,37,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1359,2020-03-14 0:00:00,60550004,0.042,39,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1360,2020-03-15 0:00:00,60550004,0.045,42,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1361,2020-03-17 0:00:00,60550004,0.042,39,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1362,2020-03-18 0:00:00,60550004,0.038,35,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1363,2020-03-19 0:00:00,60550004,0.041,38,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1364,2020-03-20 0:00:00,60550004,0.044,41,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1365,2020-03-21 0:00:00,60550004,0.045,42,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1366,2020-03-22 0:00:00,60550004,0.044,41,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1367,2020-03-23 0:00:00,60550004,0.045,42,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1368,2020-03-24 0:00:00,60550004,0.042,39,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1369,2020-03-25 0:00:00,60550004,0.042,39,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1370,2020-03-26 0:00:00,60550004,0.037,34,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1371,2020-03-27 0:00:00,60550004,0.048,44,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1372,2020-03-28 0:00:00,60550004,0.046,43,Napa Valley College,21,88,34900,"Napa, CA",Napa,38.278849,-122.275024
+1373,2020-03-31 0:00:00,60550004,0.031,29,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1374,2020-04-01 0:00:00,60550004,0.038,35,Napa Valley College,22,92,34900,"Napa, CA",Napa,38.278849,-122.275024
+1375,2020-04-02 0:00:00,60550004,0.038,35,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1376,2020-04-03 0:00:00,60550004,0.037,34,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1377,2020-04-04 0:00:00,60550004,0.033,31,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1378,2020-04-05 0:00:00,60550004,0.04,37,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1379,2020-04-06 0:00:00,60550004,0.038,35,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1380,2020-04-07 0:00:00,60550004,0.04,37,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1381,2020-04-08 0:00:00,60550004,0.036,33,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1382,2020-04-09 0:00:00,60550004,0.035,32,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1383,2020-04-10 0:00:00,60550004,0.036,33,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1384,2020-04-11 0:00:00,60550004,0.028,26,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1385,2020-04-12 0:00:00,60550004,0.034,31,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1386,2020-04-13 0:00:00,60550004,0.044,41,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1387,2020-04-14 0:00:00,60550004,0.049,45,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1388,2020-04-15 0:00:00,60550004,0.049,45,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1389,2020-04-16 0:00:00,60550004,0.032,30,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1390,2020-04-17 0:00:00,60550004,0.04,37,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1391,2020-04-18 0:00:00,60550004,0.042,39,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1392,2020-04-19 0:00:00,60550004,0.041,38,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1393,2020-04-20 0:00:00,60550004,0.038,35,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1394,2020-04-21 0:00:00,60550004,0.035,32,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1395,2020-04-22 0:00:00,60550004,0.035,32,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1396,2020-04-23 0:00:00,60550004,0.038,35,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1397,2020-04-24 0:00:00,60550004,0.044,41,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1398,2020-04-25 0:00:00,60550004,0.038,35,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1399,2020-04-26 0:00:00,60550004,0.039,36,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1400,2020-04-27 0:00:00,60550004,0.038,35,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1401,2020-04-28 0:00:00,60550004,0.036,33,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1402,2020-04-29 0:00:00,60550004,0.027,25,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1403,2020-04-30 0:00:00,60550004,0.047,44,Napa Valley College,24,100,34900,"Napa, CA",Napa,38.278849,-122.275024
+1476,2020-03-01 0:00:00,60670011,0.036,33,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1477,2020-03-02 0:00:00,60670011,0.039,36,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1478,2020-03-03 0:00:00,60670011,0.047,44,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1479,2020-03-04 0:00:00,60670011,0.057,58,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1480,2020-03-05 0:00:00,60670011,0.043,40,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1481,2020-03-06 0:00:00,60670011,0.037,34,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1482,2020-03-07 0:00:00,60670011,0.029,27,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1483,2020-03-08 0:00:00,60670011,0.034,31,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1484,2020-03-09 0:00:00,60670011,0.039,36,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1485,2020-03-10 0:00:00,60670011,0.034,31,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1486,2020-03-11 0:00:00,60670011,0.044,41,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1487,2020-03-12 0:00:00,60670011,0.04,37,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1488,2020-03-13 0:00:00,60670011,0.039,36,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1489,2020-03-14 0:00:00,60670011,0.034,31,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1490,2020-03-15 0:00:00,60670011,0.04,37,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1491,2020-03-16 0:00:00,60670011,0.037,34,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1492,2020-03-17 0:00:00,60670011,0.04,37,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1493,2020-03-18 0:00:00,60670011,0.038,35,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1494,2020-03-19 0:00:00,60670011,0.039,36,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1495,2020-03-20 0:00:00,60670011,0.04,37,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1496,2020-03-21 0:00:00,60670011,0.043,40,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1497,2020-03-22 0:00:00,60670011,0.037,34,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1498,2020-03-23 0:00:00,60670011,0.042,39,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1499,2020-03-24 0:00:00,60670011,0.041,38,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1500,2020-03-25 0:00:00,60670011,0.043,40,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1501,2020-03-26 0:00:00,60670011,0.04,37,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1502,2020-03-27 0:00:00,60670011,0.048,44,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1503,2020-03-28 0:00:00,60670011,0.043,40,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1504,2020-03-29 0:00:00,60670011,0.047,44,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1505,2020-03-30 0:00:00,60670011,0.038,35,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1506,2020-03-31 0:00:00,60670011,0.032,30,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1507,2020-04-01 0:00:00,60670011,0.043,40,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1508,2020-04-02 0:00:00,60670011,0.039,36,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1509,2020-04-03 0:00:00,60670011,0.038,35,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1510,2020-04-04 0:00:00,60670011,0.028,26,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1511,2020-04-05 0:00:00,60670011,0.034,31,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1512,2020-04-06 0:00:00,60670011,0.041,38,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1513,2020-04-07 0:00:00,60670011,0.04,37,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1514,2020-04-08 0:00:00,60670011,0.031,29,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1515,2020-04-09 0:00:00,60670011,0.038,35,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1516,2020-04-10 0:00:00,60670011,0.039,36,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1517,2020-04-11 0:00:00,60670011,0.034,31,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1518,2020-04-12 0:00:00,60670011,0.034,31,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1519,2020-04-13 0:00:00,60670011,0.042,39,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1520,2020-04-14 0:00:00,60670011,0.048,44,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1521,2020-04-15 0:00:00,60670011,0.048,44,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1522,2020-04-16 0:00:00,60670011,0.043,40,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1523,2020-04-17 0:00:00,60670011,0.038,35,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1524,2020-04-18 0:00:00,60670011,0.044,41,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1525,2020-04-19 0:00:00,60670011,0.044,41,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1526,2020-04-20 0:00:00,60670011,0.043,40,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1527,2020-04-21 0:00:00,60670011,0.041,38,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1528,2020-04-22 0:00:00,60670011,0.041,38,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1529,2020-04-23 0:00:00,60670011,0.048,44,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1530,2020-04-24 0:00:00,60670011,0.046,43,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1531,2020-04-25 0:00:00,60670011,0.044,41,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1532,2020-04-26 0:00:00,60670011,0.039,36,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1533,2020-04-27 0:00:00,60670011,0.045,42,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1534,2020-04-28 0:00:00,60670011,0.045,42,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1535,2020-04-30 0:00:00,60670011,0.049,45,Elk Grove-Bruceville,24,100,40900,"Sacramento--Roseville--Arden-Arcade, CA",Sacramento,38.302591,-121.420838
+1608,2020-03-01 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1609,2020-03-02 0:00:00,60750005,0.038,35,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1610,2020-03-03 0:00:00,60750005,0.027,25,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1611,2020-03-04 0:00:00,60750005,0.037,34,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1612,2020-03-05 0:00:00,60750005,0.038,35,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1613,2020-03-06 0:00:00,60750005,0.037,34,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1614,2020-03-07 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1615,2020-03-08 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1616,2020-03-09 0:00:00,60750005,0.038,35,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1617,2020-03-10 0:00:00,60750005,0.035,32,San Francisco,20,83,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1618,2020-03-11 0:00:00,60750005,0.036,33,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1619,2020-03-12 0:00:00,60750005,0.035,32,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1620,2020-03-13 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1621,2020-03-14 0:00:00,60750005,0.042,39,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1622,2020-03-15 0:00:00,60750005,0.044,41,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1623,2020-03-16 0:00:00,60750005,0.041,38,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1624,2020-03-17 0:00:00,60750005,0.038,35,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1625,2020-03-18 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1626,2020-03-19 0:00:00,60750005,0.04,37,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1627,2020-03-20 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1628,2020-03-21 0:00:00,60750005,0.042,39,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1629,2020-03-22 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1630,2020-03-23 0:00:00,60750005,0.044,41,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1631,2020-03-24 0:00:00,60750005,0.042,39,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1632,2020-03-25 0:00:00,60750005,0.041,38,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1633,2020-03-26 0:00:00,60750005,0.037,34,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1634,2020-03-27 0:00:00,60750005,0.048,44,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1635,2020-03-28 0:00:00,60750005,0.044,41,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1636,2020-03-29 0:00:00,60750005,0.042,39,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1637,2020-03-30 0:00:00,60750005,0.033,31,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1638,2020-03-31 0:00:00,60750005,0.033,31,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1639,2020-04-01 0:00:00,60750005,0.037,34,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1640,2020-04-02 0:00:00,60750005,0.033,31,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1641,2020-04-03 0:00:00,60750005,0.035,32,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1642,2020-04-04 0:00:00,60750005,0.035,32,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1643,2020-04-05 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1644,2020-04-06 0:00:00,60750005,0.034,31,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1645,2020-04-07 0:00:00,60750005,0.04,37,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1646,2020-04-08 0:00:00,60750005,0.037,34,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1647,2020-04-09 0:00:00,60750005,0.037,34,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1648,2020-04-10 0:00:00,60750005,0.037,34,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1649,2020-04-11 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1650,2020-04-12 0:00:00,60750005,0.042,39,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1651,2020-04-13 0:00:00,60750005,0.042,39,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1652,2020-04-14 0:00:00,60750005,0.044,41,San Francisco,22,92,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1653,2020-04-15 0:00:00,60750005,0.036,33,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1654,2020-04-16 0:00:00,60750005,0.031,29,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1655,2020-04-17 0:00:00,60750005,0.041,38,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1656,2020-04-18 0:00:00,60750005,0.042,39,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1657,2020-04-19 0:00:00,60750005,0.041,38,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1658,2020-04-20 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1659,2020-04-21 0:00:00,60750005,0.034,31,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1660,2020-04-22 0:00:00,60750005,0.029,27,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1661,2020-04-23 0:00:00,60750005,0.032,30,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1662,2020-04-24 0:00:00,60750005,0.031,29,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1663,2020-04-25 0:00:00,60750005,0.025,23,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1664,2020-04-26 0:00:00,60750005,0.042,39,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1665,2020-04-27 0:00:00,60750005,0.034,31,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1666,2020-04-28 0:00:00,60750005,0.026,24,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1667,2020-04-29 0:00:00,60750005,0.025,23,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1668,2020-04-30 0:00:00,60750005,0.039,36,San Francisco,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Francisco,37.765946,-122.399044
+1736,2020-03-01 0:00:00,60771002,0.033,31,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1737,2020-03-03 0:00:00,60771002,0.042,39,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1738,2020-03-04 0:00:00,60771002,0.05,46,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1739,2020-03-05 0:00:00,60771002,0.038,35,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1740,2020-03-06 0:00:00,60771002,0.033,31,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1741,2020-03-07 0:00:00,60771002,0.027,25,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1742,2020-03-08 0:00:00,60771002,0.03,28,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1743,2020-03-09 0:00:00,60771002,0.035,32,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1744,2020-03-10 0:00:00,60771002,0.026,24,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1745,2020-03-11 0:00:00,60771002,0.037,34,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1746,2020-03-12 0:00:00,60771002,0.038,35,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1747,2020-03-13 0:00:00,60771002,0.037,34,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1748,2020-03-14 0:00:00,60771002,0.029,27,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1749,2020-03-15 0:00:00,60771002,0.036,33,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1750,2020-03-16 0:00:00,60771002,0.032,30,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1751,2020-03-17 0:00:00,60771002,0.033,31,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1752,2020-03-18 0:00:00,60771002,0.034,31,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1753,2020-03-19 0:00:00,60771002,0.036,33,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1754,2020-03-20 0:00:00,60771002,0.038,35,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1755,2020-03-21 0:00:00,60771002,0.038,35,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1756,2020-03-22 0:00:00,60771002,0.037,34,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1757,2020-03-23 0:00:00,60771002,0.035,32,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1758,2020-03-24 0:00:00,60771002,0.036,33,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1759,2020-03-25 0:00:00,60771002,0.039,36,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1760,2020-03-27 0:00:00,60771002,0.044,41,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1761,2020-03-28 0:00:00,60771002,0.041,38,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1762,2020-03-29 0:00:00,60771002,0.043,40,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1763,2020-03-31 0:00:00,60771002,0.028,26,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1764,2020-04-01 0:00:00,60771002,0.039,36,Stockton-Hazelton,21,88,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1765,2020-04-02 0:00:00,60771002,0.036,33,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1766,2020-04-03 0:00:00,60771002,0.036,33,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1767,2020-04-04 0:00:00,60771002,0.026,24,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1768,2020-04-05 0:00:00,60771002,0.028,26,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1769,2020-04-06 0:00:00,60771002,0.036,33,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1770,2020-04-07 0:00:00,60771002,0.037,34,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1771,2020-04-08 0:00:00,60771002,0.032,30,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1772,2020-04-14 0:00:00,60771002,0.046,43,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1773,2020-04-17 0:00:00,60771002,0.033,31,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1774,2020-04-18 0:00:00,60771002,0.037,34,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1775,2020-04-19 0:00:00,60771002,0.039,36,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1776,2020-04-20 0:00:00,60771002,0.039,36,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1777,2020-04-21 0:00:00,60771002,0.037,34,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1778,2020-04-22 0:00:00,60771002,0.036,33,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1779,2020-04-23 0:00:00,60771002,0.036,33,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1780,2020-04-24 0:00:00,60771002,0.042,39,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1781,2020-04-25 0:00:00,60771002,0.038,35,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1782,2020-04-26 0:00:00,60771002,0.038,35,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1783,2020-04-27 0:00:00,60771002,0.04,37,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1784,2020-04-28 0:00:00,60771002,0.039,36,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1785,2020-04-29 0:00:00,60771002,0.03,28,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1786,2020-04-30 0:00:00,60771002,0.048,44,Stockton-Hazelton,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.9507409,-121.2685227
+1859,2020-03-01 0:00:00,60773005,0.04,37,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1860,2020-03-02 0:00:00,60773005,0.038,35,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1861,2020-03-03 0:00:00,60773005,0.039,36,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1862,2020-03-04 0:00:00,60773005,0.054,50,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1863,2020-03-05 0:00:00,60773005,0.046,43,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1864,2020-03-06 0:00:00,60773005,0.035,32,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1865,2020-03-07 0:00:00,60773005,0.031,29,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1866,2020-03-08 0:00:00,60773005,0.032,30,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1867,2020-03-09 0:00:00,60773005,0.039,36,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1868,2020-03-10 0:00:00,60773005,0.036,33,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1869,2020-03-11 0:00:00,60773005,0.043,40,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1870,2020-03-12 0:00:00,60773005,0.046,43,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1871,2020-03-13 0:00:00,60773005,0.039,36,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1872,2020-03-14 0:00:00,60773005,0.038,35,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1873,2020-03-15 0:00:00,60773005,0.041,38,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1874,2020-03-16 0:00:00,60773005,0.04,37,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1875,2020-03-17 0:00:00,60773005,0.036,33,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1876,2020-03-18 0:00:00,60773005,0.037,34,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1877,2020-03-19 0:00:00,60773005,0.041,38,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1878,2020-03-20 0:00:00,60773005,0.041,38,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1879,2020-03-21 0:00:00,60773005,0.042,39,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1880,2020-03-22 0:00:00,60773005,0.042,39,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1881,2020-03-23 0:00:00,60773005,0.04,37,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1882,2020-03-24 0:00:00,60773005,0.04,37,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1883,2020-03-25 0:00:00,60773005,0.044,41,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1884,2020-03-26 0:00:00,60773005,0.04,37,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1885,2020-03-27 0:00:00,60773005,0.049,45,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1886,2020-03-28 0:00:00,60773005,0.044,41,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1887,2020-03-29 0:00:00,60773005,0.044,41,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1888,2020-03-30 0:00:00,60773005,0.038,35,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1889,2020-03-31 0:00:00,60773005,0.035,32,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1890,2020-04-01 0:00:00,60773005,0.042,39,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1891,2020-04-02 0:00:00,60773005,0.04,37,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1892,2020-04-03 0:00:00,60773005,0.039,36,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1893,2020-04-04 0:00:00,60773005,0.031,29,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1894,2020-04-05 0:00:00,60773005,0.035,32,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1895,2020-04-06 0:00:00,60773005,0.038,35,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1896,2020-04-07 0:00:00,60773005,0.041,38,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1897,2020-04-08 0:00:00,60773005,0.037,34,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1898,2020-04-09 0:00:00,60773005,0.031,29,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1899,2020-04-10 0:00:00,60773005,0.039,36,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1900,2020-04-11 0:00:00,60773005,0.035,32,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1901,2020-04-12 0:00:00,60773005,0.034,31,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1902,2020-04-13 0:00:00,60773005,0.046,43,Tracy-Airport,20,83,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1903,2020-04-14 0:00:00,60773005,0.048,44,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1904,2020-04-18 0:00:00,60773005,0.041,38,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1905,2020-04-19 0:00:00,60773005,0.041,38,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1906,2020-04-22 0:00:00,60773005,0.042,39,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1907,2020-04-23 0:00:00,60773005,0.044,41,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1908,2020-04-24 0:00:00,60773005,0.05,46,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1909,2020-04-25 0:00:00,60773005,0.046,43,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1910,2020-04-26 0:00:00,60773005,0.044,41,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1911,2020-04-27 0:00:00,60773005,0.046,43,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1912,2020-04-28 0:00:00,60773005,0.046,43,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1913,2020-04-29 0:00:00,60773005,0.035,32,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1914,2020-04-30 0:00:00,60773005,0.055,51,Tracy-Airport,24,100,44700,"Stockton-Lodi, CA",San Joaquin,37.682635,-121.442495
+1985,2020-03-01 0:00:00,60811001,0.039,36,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1986,2020-03-02 0:00:00,60811001,0.038,35,Redwood City,20,83,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1987,2020-03-03 0:00:00,60811001,0.034,31,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1988,2020-03-04 0:00:00,60811001,0.043,40,Redwood City,23,96,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1989,2020-03-05 0:00:00,60811001,0.034,31,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1990,2020-03-06 0:00:00,60811001,0.035,32,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1991,2020-03-07 0:00:00,60811001,0.035,32,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1992,2020-03-08 0:00:00,60811001,0.038,35,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1993,2020-03-09 0:00:00,60811001,0.037,34,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1994,2020-03-10 0:00:00,60811001,0.036,33,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1995,2020-03-11 0:00:00,60811001,0.037,34,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1996,2020-03-12 0:00:00,60811001,0.036,33,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1997,2020-03-13 0:00:00,60811001,0.038,35,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1998,2020-03-14 0:00:00,60811001,0.037,34,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+1999,2020-03-15 0:00:00,60811001,0.041,38,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2000,2020-03-16 0:00:00,60811001,0.041,38,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2001,2020-03-17 0:00:00,60811001,0.036,33,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2002,2020-03-18 0:00:00,60811001,0.039,36,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2003,2020-03-19 0:00:00,60811001,0.041,38,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2004,2020-03-20 0:00:00,60811001,0.041,38,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2005,2020-03-21 0:00:00,60811001,0.039,36,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2006,2020-03-22 0:00:00,60811001,0.037,34,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2007,2020-03-23 0:00:00,60811001,0.042,39,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2008,2020-03-24 0:00:00,60811001,0.04,37,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2009,2020-03-25 0:00:00,60811001,0.04,37,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2010,2020-03-26 0:00:00,60811001,0.039,36,Redwood City,21,88,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2011,2020-03-27 0:00:00,60811001,0.05,46,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2012,2020-03-28 0:00:00,60811001,0.044,41,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2013,2020-03-29 0:00:00,60811001,0.04,37,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2014,2020-03-30 0:00:00,60811001,0.036,33,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2015,2020-03-31 0:00:00,60811001,0.035,32,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2016,2020-04-01 0:00:00,60811001,0.039,36,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2017,2020-04-02 0:00:00,60811001,0.037,34,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2018,2020-04-03 0:00:00,60811001,0.035,32,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2019,2020-04-04 0:00:00,60811001,0.029,27,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2020,2020-04-05 0:00:00,60811001,0.036,33,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2021,2020-04-06 0:00:00,60811001,0.033,31,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2022,2020-04-07 0:00:00,60811001,0.041,38,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2023,2020-04-08 0:00:00,60811001,0.033,31,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2024,2020-04-09 0:00:00,60811001,0.036,33,Redwood City,23,96,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2025,2020-04-10 0:00:00,60811001,0.037,34,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2026,2020-04-11 0:00:00,60811001,0.036,33,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2027,2020-04-12 0:00:00,60811001,0.035,32,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2028,2020-04-13 0:00:00,60811001,0.044,41,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2029,2020-04-14 0:00:00,60811001,0.051,47,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2030,2020-04-15 0:00:00,60811001,0.043,40,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2031,2020-04-16 0:00:00,60811001,0.027,25,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2032,2020-04-17 0:00:00,60811001,0.038,35,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2033,2020-04-18 0:00:00,60811001,0.04,37,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2034,2020-04-19 0:00:00,60811001,0.039,36,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2035,2020-04-20 0:00:00,60811001,0.037,34,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2036,2020-04-21 0:00:00,60811001,0.036,33,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2037,2020-04-22 0:00:00,60811001,0.03,28,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2038,2020-04-23 0:00:00,60811001,0.038,35,Redwood City,22,92,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2039,2020-04-24 0:00:00,60811001,0.039,36,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2040,2020-04-25 0:00:00,60811001,0.032,30,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2041,2020-04-26 0:00:00,60811001,0.044,41,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2042,2020-04-27 0:00:00,60811001,0.033,31,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2043,2020-04-28 0:00:00,60811001,0.029,27,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2044,2020-04-29 0:00:00,60811001,0.026,24,Redwood City,21,88,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2045,2020-04-30 0:00:00,60811001,0.045,42,Redwood City,24,100,41860,"San Francisco-Oakland-Hayward, CA",San Mateo,37.482934,-122.20337
+2117,2020-03-01 0:00:00,60850005,0.039,36,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2118,2020-03-02 0:00:00,60850005,0.041,38,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2119,2020-03-03 0:00:00,60850005,0.035,32,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2120,2020-03-04 0:00:00,60850005,0.046,43,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2121,2020-03-05 0:00:00,60850005,0.035,32,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2122,2020-03-06 0:00:00,60850005,0.034,31,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2123,2020-03-07 0:00:00,60850005,0.032,30,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2124,2020-03-08 0:00:00,60850005,0.037,34,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2125,2020-03-09 0:00:00,60850005,0.034,31,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2126,2020-03-10 0:00:00,60850005,0.029,27,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2127,2020-03-11 0:00:00,60850005,0.039,36,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2128,2020-03-12 0:00:00,60850005,0.042,39,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2129,2020-03-13 0:00:00,60850005,0.037,34,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2130,2020-03-14 0:00:00,60850005,0.035,32,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2131,2020-03-15 0:00:00,60850005,0.038,35,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2132,2020-03-16 0:00:00,60850005,0.036,33,San Jose - Jackson,22,92,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2133,2020-03-18 0:00:00,60850005,0.035,32,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2134,2020-03-19 0:00:00,60850005,0.039,36,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2135,2020-03-20 0:00:00,60850005,0.039,36,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2136,2020-03-21 0:00:00,60850005,0.038,35,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2137,2020-03-22 0:00:00,60850005,0.036,33,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2138,2020-03-23 0:00:00,60850005,0.04,37,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2139,2020-03-24 0:00:00,60850005,0.04,37,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2140,2020-03-25 0:00:00,60850005,0.04,37,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2141,2020-03-26 0:00:00,60850005,0.04,37,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2142,2020-03-27 0:00:00,60850005,0.049,45,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2143,2020-03-28 0:00:00,60850005,0.045,42,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2144,2020-03-29 0:00:00,60850005,0.042,39,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2145,2020-03-30 0:00:00,60850005,0.037,34,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2146,2020-03-31 0:00:00,60850005,0.033,31,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2147,2020-04-01 0:00:00,60850005,0.04,37,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2148,2020-04-02 0:00:00,60850005,0.037,34,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2149,2020-04-03 0:00:00,60850005,0.036,33,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2150,2020-04-04 0:00:00,60850005,0.028,26,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2151,2020-04-05 0:00:00,60850005,0.03,28,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2152,2020-04-06 0:00:00,60850005,0.033,31,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2153,2020-04-07 0:00:00,60850005,0.039,36,San Jose - Jackson,21,88,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2154,2020-04-08 0:00:00,60850005,0.032,30,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2155,2020-04-09 0:00:00,60850005,0.033,31,San Jose - Jackson,21,88,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2156,2020-04-12 0:00:00,60850005,0.033,31,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2157,2020-04-13 0:00:00,60850005,0.044,41,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2158,2020-04-14 0:00:00,60850005,0.05,46,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2159,2020-04-15 0:00:00,60850005,0.046,43,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2160,2020-04-16 0:00:00,60850005,0.029,27,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2161,2020-04-17 0:00:00,60850005,0.036,33,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2162,2020-04-18 0:00:00,60850005,0.039,36,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2163,2020-04-19 0:00:00,60850005,0.039,36,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2164,2020-04-20 0:00:00,60850005,0.038,35,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2165,2020-04-21 0:00:00,60850005,0.036,33,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2166,2020-04-22 0:00:00,60850005,0.034,31,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2167,2020-04-23 0:00:00,60850005,0.036,33,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2168,2020-04-24 0:00:00,60850005,0.041,38,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2169,2020-04-25 0:00:00,60850005,0.038,35,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2170,2020-04-26 0:00:00,60850005,0.041,38,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2171,2020-04-27 0:00:00,60850005,0.036,33,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2172,2020-04-28 0:00:00,60850005,0.032,30,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2173,2020-04-29 0:00:00,60850005,0.028,26,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2174,2020-04-30 0:00:00,60850005,0.044,41,San Jose - Jackson,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.348497,-121.894898
+2245,2020-03-01 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2246,2020-03-02 0:00:00,60851001,0.04,37,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2247,2020-03-03 0:00:00,60851001,0.035,32,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2248,2020-03-04 0:00:00,60851001,0.04,37,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2249,2020-03-05 0:00:00,60851001,0.036,33,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2250,2020-03-06 0:00:00,60851001,0.035,32,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2251,2020-03-07 0:00:00,60851001,0.031,29,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2252,2020-03-08 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2253,2020-03-09 0:00:00,60851001,0.034,31,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2254,2020-03-10 0:00:00,60851001,0.034,31,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2255,2020-03-11 0:00:00,60851001,0.038,35,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2256,2020-03-12 0:00:00,60851001,0.04,37,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2257,2020-03-13 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2258,2020-03-14 0:00:00,60851001,0.035,32,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2259,2020-03-15 0:00:00,60851001,0.038,35,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2260,2020-03-17 0:00:00,60851001,0.034,31,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2261,2020-03-18 0:00:00,60851001,0.034,31,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2262,2020-03-19 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2263,2020-03-20 0:00:00,60851001,0.036,33,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2264,2020-03-21 0:00:00,60851001,0.034,31,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2265,2020-03-22 0:00:00,60851001,0.034,31,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2266,2020-03-23 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2267,2020-03-24 0:00:00,60851001,0.04,37,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2268,2020-03-25 0:00:00,60851001,0.039,36,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2269,2020-03-26 0:00:00,60851001,0.04,37,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2270,2020-03-27 0:00:00,60851001,0.048,44,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2271,2020-03-28 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2272,2020-03-29 0:00:00,60851001,0.04,37,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2273,2020-03-30 0:00:00,60851001,0.036,33,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2274,2020-03-31 0:00:00,60851001,0.035,32,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2275,2020-04-01 0:00:00,60851001,0.041,38,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2276,2020-04-02 0:00:00,60851001,0.038,35,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2277,2020-04-03 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2278,2020-04-04 0:00:00,60851001,0.032,30,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2279,2020-04-05 0:00:00,60851001,0.036,33,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2280,2020-04-06 0:00:00,60851001,0.033,31,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2281,2020-04-07 0:00:00,60851001,0.042,39,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2282,2020-04-08 0:00:00,60851001,0.035,32,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2283,2020-04-09 0:00:00,60851001,0.034,31,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2284,2020-04-10 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2285,2020-04-11 0:00:00,60851001,0.035,32,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2286,2020-04-12 0:00:00,60851001,0.028,26,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2287,2020-04-13 0:00:00,60851001,0.043,40,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2288,2020-04-14 0:00:00,60851001,0.051,47,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2289,2020-04-15 0:00:00,60851001,0.049,45,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2290,2020-04-16 0:00:00,60851001,0.028,26,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2291,2020-04-17 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2292,2020-04-18 0:00:00,60851001,0.039,36,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2293,2020-04-19 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2294,2020-04-20 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2295,2020-04-21 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2296,2020-04-22 0:00:00,60851001,0.036,33,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2297,2020-04-23 0:00:00,60851001,0.04,37,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2298,2020-04-24 0:00:00,60851001,0.043,40,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2299,2020-04-25 0:00:00,60851001,0.039,36,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2300,2020-04-26 0:00:00,60851001,0.037,34,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2301,2020-04-27 0:00:00,60851001,0.039,36,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2302,2020-04-28 0:00:00,60851001,0.036,33,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2303,2020-04-29 0:00:00,60851001,0.029,27,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2304,2020-04-30 0:00:00,60851001,0.044,41,Los Gatos,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.226862,-121.979675
+2377,2020-03-01 0:00:00,60852006,0.037,34,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2378,2020-03-02 0:00:00,60852006,0.042,39,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2379,2020-03-03 0:00:00,60852006,0.036,33,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2380,2020-03-04 0:00:00,60852006,0.04,37,San Martin,20,83,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2381,2020-03-05 0:00:00,60852006,0.038,35,San Martin,21,88,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2382,2020-03-06 0:00:00,60852006,0.037,34,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2383,2020-03-07 0:00:00,60852006,0.034,31,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2384,2020-03-08 0:00:00,60852006,0.037,34,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2385,2020-03-10 0:00:00,60852006,0.034,31,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2386,2020-03-11 0:00:00,60852006,0.039,36,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2387,2020-03-12 0:00:00,60852006,0.046,43,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2388,2020-03-13 0:00:00,60852006,0.039,36,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2389,2020-03-14 0:00:00,60852006,0.037,34,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2390,2020-03-15 0:00:00,60852006,0.04,37,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2391,2020-03-16 0:00:00,60852006,0.039,36,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2392,2020-03-17 0:00:00,60852006,0.038,35,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2393,2020-03-18 0:00:00,60852006,0.037,34,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2394,2020-03-19 0:00:00,60852006,0.04,37,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2395,2020-03-22 0:00:00,60852006,0.035,32,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2396,2020-03-23 0:00:00,60852006,0.036,33,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2397,2020-03-24 0:00:00,60852006,0.039,36,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2398,2020-03-25 0:00:00,60852006,0.037,34,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2399,2020-03-26 0:00:00,60852006,0.038,35,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2400,2020-03-27 0:00:00,60852006,0.043,40,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2401,2020-03-28 0:00:00,60852006,0.042,39,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2402,2020-03-29 0:00:00,60852006,0.041,38,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2403,2020-03-30 0:00:00,60852006,0.037,34,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2404,2020-03-31 0:00:00,60852006,0.036,33,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2405,2020-04-01 0:00:00,60852006,0.042,39,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2406,2020-04-02 0:00:00,60852006,0.04,37,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2407,2020-04-03 0:00:00,60852006,0.039,36,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2408,2020-04-04 0:00:00,60852006,0.029,27,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2409,2020-04-05 0:00:00,60852006,0.034,31,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2410,2020-04-06 0:00:00,60852006,0.04,37,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2411,2020-04-07 0:00:00,60852006,0.04,37,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2412,2020-04-08 0:00:00,60852006,0.033,31,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2413,2020-04-09 0:00:00,60852006,0.034,31,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2414,2020-04-10 0:00:00,60852006,0.038,35,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2415,2020-04-11 0:00:00,60852006,0.031,29,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2416,2020-04-12 0:00:00,60852006,0.031,29,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2417,2020-04-13 0:00:00,60852006,0.037,34,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2418,2020-04-14 0:00:00,60852006,0.048,44,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2419,2020-04-15 0:00:00,60852006,0.045,42,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2420,2020-04-16 0:00:00,60852006,0.027,25,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2421,2020-04-17 0:00:00,60852006,0.035,32,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2422,2020-04-18 0:00:00,60852006,0.038,35,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2423,2020-04-19 0:00:00,60852006,0.036,33,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2424,2020-04-20 0:00:00,60852006,0.037,34,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2425,2020-04-21 0:00:00,60852006,0.042,39,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2426,2020-04-22 0:00:00,60852006,0.038,35,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2427,2020-04-23 0:00:00,60852006,0.039,36,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2428,2020-04-24 0:00:00,60852006,0.047,44,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2429,2020-04-25 0:00:00,60852006,0.042,39,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2430,2020-04-26 0:00:00,60852006,0.044,41,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2431,2020-04-27 0:00:00,60852006,0.041,38,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2432,2020-04-28 0:00:00,60852006,0.042,39,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2433,2020-04-29 0:00:00,60852006,0.035,32,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2434,2020-04-30 0:00:00,60852006,0.053,49,San Martin,24,100,41940,"San Jose-Sunnyvale-Santa Clara, CA",Santa Clara,37.079379,-121.600031
+2505,2020-03-01 0:00:00,60950004,0.04,37,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2506,2020-03-02 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2507,2020-03-03 0:00:00,60950004,0.034,31,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2508,2020-03-04 0:00:00,60950004,0.047,44,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2509,2020-03-05 0:00:00,60950004,0.04,37,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2510,2020-03-06 0:00:00,60950004,0.039,36,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2511,2020-03-07 0:00:00,60950004,0.037,34,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2512,2020-03-08 0:00:00,60950004,0.038,35,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2513,2020-03-09 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2514,2020-03-10 0:00:00,60950004,0.036,33,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2515,2020-03-11 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2516,2020-03-12 0:00:00,60950004,0.039,36,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2517,2020-03-13 0:00:00,60950004,0.04,37,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2518,2020-03-14 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2519,2020-03-15 0:00:00,60950004,0.045,42,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2520,2020-03-16 0:00:00,60950004,0.04,37,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2521,2020-03-17 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2522,2020-03-18 0:00:00,60950004,0.036,33,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2523,2020-03-19 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2524,2020-03-20 0:00:00,60950004,0.042,39,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2525,2020-03-21 0:00:00,60950004,0.043,40,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2526,2020-03-22 0:00:00,60950004,0.043,40,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2527,2020-03-23 0:00:00,60950004,0.045,42,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2528,2020-03-24 0:00:00,60950004,0.04,37,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2529,2020-03-25 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2530,2020-03-26 0:00:00,60950004,0.037,34,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2531,2020-03-27 0:00:00,60950004,0.049,45,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2532,2020-03-28 0:00:00,60950004,0.048,44,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2533,2020-03-29 0:00:00,60950004,0.045,42,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2534,2020-03-30 0:00:00,60950004,0.035,32,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2535,2020-03-31 0:00:00,60950004,0.03,28,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2536,2020-04-01 0:00:00,60950004,0.037,34,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2537,2020-04-02 0:00:00,60950004,0.037,34,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2538,2020-04-03 0:00:00,60950004,0.034,31,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2539,2020-04-04 0:00:00,60950004,0.033,31,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2540,2020-04-05 0:00:00,60950004,0.039,36,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2541,2020-04-06 0:00:00,60950004,0.039,36,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2542,2020-04-07 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2543,2020-04-08 0:00:00,60950004,0.036,33,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2544,2020-04-09 0:00:00,60950004,0.033,31,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2545,2020-04-10 0:00:00,60950004,0.036,33,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2546,2020-04-11 0:00:00,60950004,0.037,34,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2547,2020-04-12 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2548,2020-04-13 0:00:00,60950004,0.045,42,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2549,2020-04-14 0:00:00,60950004,0.049,45,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2550,2020-04-15 0:00:00,60950004,0.043,40,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2551,2020-04-16 0:00:00,60950004,0.03,28,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2552,2020-04-17 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2553,2020-04-18 0:00:00,60950004,0.043,40,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2554,2020-04-19 0:00:00,60950004,0.042,39,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2555,2020-04-20 0:00:00,60950004,0.039,36,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2556,2020-04-21 0:00:00,60950004,0.035,32,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2557,2020-04-22 0:00:00,60950004,0.034,31,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2558,2020-04-23 0:00:00,60950004,0.036,33,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2559,2020-04-24 0:00:00,60950004,0.043,40,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2560,2020-04-25 0:00:00,60950004,0.036,33,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2561,2020-04-26 0:00:00,60950004,0.041,38,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2562,2020-04-27 0:00:00,60950004,0.036,33,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2563,2020-04-28 0:00:00,60950004,0.032,30,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2564,2020-04-29 0:00:00,60950004,0.027,25,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2565,2020-04-30 0:00:00,60950004,0.045,42,Vallejo,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.102507,-122.237976
+2635,2020-03-01 0:00:00,60950005,0.041,38,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2636,2020-03-03 0:00:00,60950005,0.037,34,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2637,2020-03-04 0:00:00,60950005,0.042,39,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2638,2020-03-06 0:00:00,60950005,0.038,35,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2639,2020-03-07 0:00:00,60950005,0.036,33,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2640,2020-03-08 0:00:00,60950005,0.037,34,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2641,2020-03-09 0:00:00,60950005,0.041,38,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2642,2020-03-10 0:00:00,60950005,0.039,36,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2643,2020-03-11 0:00:00,60950005,0.042,39,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2644,2020-03-12 0:00:00,60950005,0.039,36,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2645,2020-03-13 0:00:00,60950005,0.04,37,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2646,2020-03-14 0:00:00,60950005,0.04,37,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2647,2020-03-15 0:00:00,60950005,0.045,42,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2648,2020-03-16 0:00:00,60950005,0.038,35,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2649,2020-03-17 0:00:00,60950005,0.041,38,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2650,2020-03-18 0:00:00,60950005,0.037,34,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2651,2020-03-19 0:00:00,60950005,0.042,39,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2652,2020-03-20 0:00:00,60950005,0.043,40,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2653,2020-03-21 0:00:00,60950005,0.044,41,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2654,2020-03-22 0:00:00,60950005,0.043,40,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2655,2020-03-23 0:00:00,60950005,0.043,40,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2656,2020-03-24 0:00:00,60950005,0.041,38,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2657,2020-03-25 0:00:00,60950005,0.041,38,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2658,2020-03-26 0:00:00,60950005,0.038,35,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2659,2020-03-27 0:00:00,60950005,0.046,43,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2660,2020-03-28 0:00:00,60950005,0.048,44,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2661,2020-03-29 0:00:00,60950005,0.045,42,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2662,2020-03-30 0:00:00,60950005,0.035,32,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2663,2020-03-31 0:00:00,60950005,0.03,28,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2664,2020-04-01 0:00:00,60950005,0.039,36,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2665,2020-04-02 0:00:00,60950005,0.039,36,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2666,2020-04-03 0:00:00,60950005,0.036,33,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2667,2020-04-04 0:00:00,60950005,0.03,28,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2668,2020-04-05 0:00:00,60950005,0.037,34,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2669,2020-04-06 0:00:00,60950005,0.042,39,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2670,2020-04-07 0:00:00,60950005,0.041,38,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2671,2020-04-08 0:00:00,60950005,0.034,31,Fairfield,18,75,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2672,2020-04-09 0:00:00,60950005,0.033,31,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2673,2020-04-10 0:00:00,60950005,0.036,33,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2674,2020-04-11 0:00:00,60950005,0.031,29,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2675,2020-04-12 0:00:00,60950005,0.037,34,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2676,2020-04-13 0:00:00,60950005,0.044,41,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2677,2020-04-14 0:00:00,60950005,0.05,46,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2678,2020-04-15 0:00:00,60950005,0.049,45,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2679,2020-04-16 0:00:00,60950005,0.031,29,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2680,2020-04-17 0:00:00,60950005,0.038,35,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2681,2020-04-18 0:00:00,60950005,0.042,39,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2682,2020-04-19 0:00:00,60950005,0.041,38,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2683,2020-04-20 0:00:00,60950005,0.038,35,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2684,2020-04-21 0:00:00,60950005,0.035,32,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2685,2020-04-22 0:00:00,60950005,0.035,32,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2686,2020-04-23 0:00:00,60950005,0.038,35,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2687,2020-04-24 0:00:00,60950005,0.045,42,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2688,2020-04-25 0:00:00,60950005,0.04,37,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2689,2020-04-26 0:00:00,60950005,0.039,36,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2690,2020-04-27 0:00:00,60950005,0.039,36,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2691,2020-04-28 0:00:00,60950005,0.036,33,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2692,2020-04-29 0:00:00,60950005,0.027,25,Fairfield,24,100,46700,"Vallejo-Fairfield, CA",Solano,38.227066,-122.075624
+2764,2020-03-01 0:00:00,60953002,0.043,40,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2765,2020-03-02 0:00:00,60953002,0.043,40,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2766,2020-03-03 0:00:00,60953002,0.039,36,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2767,2020-03-04 0:00:00,60953002,0.044,41,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2768,2020-03-05 0:00:00,60953002,0.045,42,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2769,2020-03-06 0:00:00,60953002,0.042,39,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2770,2020-03-07 0:00:00,60953002,0.038,35,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2771,2020-03-08 0:00:00,60953002,0.039,36,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2772,2020-03-09 0:00:00,60953002,0.042,39,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2773,2020-03-10 0:00:00,60953002,0.044,41,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2774,2020-03-11 0:00:00,60953002,0.046,43,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2775,2020-03-12 0:00:00,60953002,0.043,40,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),18,75,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2776,2020-03-13 0:00:00,60953002,0.042,39,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2777,2020-03-14 0:00:00,60953002,0.041,38,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2778,2020-03-15 0:00:00,60953002,0.044,41,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2779,2020-03-16 0:00:00,60953002,0.041,38,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2780,2020-03-17 0:00:00,60953002,0.04,37,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2781,2020-03-18 0:00:00,60953002,0.038,35,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2782,2020-03-19 0:00:00,60953002,0.04,37,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2783,2020-03-20 0:00:00,60953002,0.043,40,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2784,2020-03-21 0:00:00,60953002,0.046,43,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2785,2020-03-22 0:00:00,60953002,0.046,43,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2786,2020-03-23 0:00:00,60953002,0.045,42,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2787,2020-03-24 0:00:00,60953002,0.041,38,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2788,2020-03-25 0:00:00,60953002,0.04,37,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2789,2020-03-26 0:00:00,60953002,0.04,37,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2790,2020-03-27 0:00:00,60953002,0.048,44,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2791,2020-03-28 0:00:00,60953002,0.046,43,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2792,2020-03-29 0:00:00,60953002,0.044,41,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2793,2020-03-30 0:00:00,60953002,0.033,31,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2794,2020-03-31 0:00:00,60953002,0.031,29,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2795,2020-04-01 0:00:00,60953002,0.042,39,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2796,2020-04-02 0:00:00,60953002,0.037,34,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2797,2020-04-03 0:00:00,60953002,0.038,35,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2798,2020-04-04 0:00:00,60953002,0.03,28,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2799,2020-04-05 0:00:00,60953002,0.035,32,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2800,2020-04-06 0:00:00,60953002,0.042,39,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2801,2020-04-07 0:00:00,60953002,0.041,38,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2802,2020-04-08 0:00:00,60953002,0.034,31,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2803,2020-04-09 0:00:00,60953002,0.037,34,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2804,2020-04-10 0:00:00,60953002,0.035,32,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2805,2020-04-11 0:00:00,60953002,0.028,26,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2806,2020-04-12 0:00:00,60953002,0.036,33,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2807,2020-04-13 0:00:00,60953002,0.049,45,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2808,2020-04-14 0:00:00,60953002,0.049,45,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2809,2020-04-15 0:00:00,60953002,0.049,45,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2810,2020-04-16 0:00:00,60953002,0.04,37,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2811,2020-04-17 0:00:00,60953002,0.039,36,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2812,2020-04-18 0:00:00,60953002,0.041,38,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2813,2020-04-19 0:00:00,60953002,0.04,37,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2814,2020-04-20 0:00:00,60953002,0.039,36,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2815,2020-04-21 0:00:00,60953002,0.036,33,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2816,2020-04-22 0:00:00,60953002,0.039,36,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2817,2020-04-23 0:00:00,60953002,0.041,38,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2818,2020-04-24 0:00:00,60953002,0.043,40,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2819,2020-04-25 0:00:00,60953002,0.044,41,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2820,2020-04-26 0:00:00,60953002,0.036,33,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2821,2020-04-27 0:00:00,60953002,0.041,38,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2822,2020-04-28 0:00:00,60953002,0.041,38,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2823,2020-04-29 0:00:00,60953002,0.028,26,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2824,2020-04-30 0:00:00,60953002,0.045,42,SITE LOCATED AT FILTRATION PLANT (WATER TREATMENT PLANT),24,100,46700,"Vallejo-Fairfield, CA",Solano,38.35241073,-121.9627438
+2895,2020-03-01 0:00:00,60970004,0.043,40,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2896,2020-03-02 0:00:00,60970004,0.041,38,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2897,2020-03-03 0:00:00,60970004,0.031,29,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2898,2020-03-04 0:00:00,60970004,0.037,34,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2899,2020-03-05 0:00:00,60970004,0.039,36,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2900,2020-03-06 0:00:00,60970004,0.037,34,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2901,2020-03-07 0:00:00,60970004,0.038,35,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2902,2020-03-08 0:00:00,60970004,0.039,36,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2903,2020-03-09 0:00:00,60970004,0.043,40,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2904,2020-03-10 0:00:00,60970004,0.04,37,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2905,2020-03-11 0:00:00,60970004,0.038,35,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2906,2020-03-12 0:00:00,60970004,0.032,30,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2907,2020-03-13 0:00:00,60970004,0.038,35,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2908,2020-03-14 0:00:00,60970004,0.044,41,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2909,2020-03-15 0:00:00,60970004,0.044,41,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2910,2020-03-17 0:00:00,60970004,0.042,39,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2911,2020-03-18 0:00:00,60970004,0.037,34,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2912,2020-03-19 0:00:00,60970004,0.038,35,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2913,2020-03-20 0:00:00,60970004,0.044,41,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2914,2020-03-21 0:00:00,60970004,0.044,41,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2915,2020-03-22 0:00:00,60970004,0.044,41,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2916,2020-03-23 0:00:00,60970004,0.045,42,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2917,2020-03-24 0:00:00,60970004,0.043,40,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2918,2020-03-25 0:00:00,60970004,0.039,36,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2919,2020-03-26 0:00:00,60970004,0.037,34,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2920,2020-03-27 0:00:00,60970004,0.048,44,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2921,2020-03-28 0:00:00,60970004,0.045,42,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2922,2020-03-29 0:00:00,60970004,0.042,39,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2923,2020-03-30 0:00:00,60970004,0.034,31,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2924,2020-03-31 0:00:00,60970004,0.029,27,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2925,2020-04-02 0:00:00,60970004,0.035,32,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2926,2020-04-03 0:00:00,60970004,0.036,33,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2927,2020-04-04 0:00:00,60970004,0.034,31,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2928,2020-04-05 0:00:00,60970004,0.042,39,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2929,2020-04-06 0:00:00,60970004,0.039,36,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2930,2020-04-07 0:00:00,60970004,0.039,36,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2931,2020-04-08 0:00:00,60970004,0.035,32,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2932,2020-04-09 0:00:00,60970004,0.036,33,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2933,2020-04-10 0:00:00,60970004,0.033,31,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2934,2020-04-11 0:00:00,60970004,0.028,26,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2935,2020-04-12 0:00:00,60970004,0.029,27,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2936,2020-04-13 0:00:00,60970004,0.036,33,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2937,2020-04-14 0:00:00,60970004,0.05,46,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2938,2020-04-15 0:00:00,60970004,0.038,35,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2939,2020-04-16 0:00:00,60970004,0.031,29,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2940,2020-04-17 0:00:00,60970004,0.039,36,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2941,2020-04-18 0:00:00,60970004,0.041,38,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2942,2020-04-19 0:00:00,60970004,0.042,39,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2943,2020-04-20 0:00:00,60970004,0.035,32,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2944,2020-04-21 0:00:00,60970004,0.03,28,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2945,2020-04-22 0:00:00,60970004,0.029,27,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2946,2020-04-23 0:00:00,60970004,0.043,40,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2947,2020-04-24 0:00:00,60970004,0.036,33,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2948,2020-04-25 0:00:00,60970004,0.029,27,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2949,2020-04-26 0:00:00,60970004,0.03,28,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2950,2020-04-27 0:00:00,60970004,0.032,30,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2951,2020-04-28 0:00:00,60970004,0.026,24,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2952,2020-04-29 0:00:00,60970004,0.022,20,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
+2953,2020-04-30 0:00:00,60970004,0.044,41,Sebastopol,24,100,42220,"Santa Rosa, CA",Sonoma,38.403765,-122.818294
